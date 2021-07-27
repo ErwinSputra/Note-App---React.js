@@ -1,5 +1,5 @@
 # Note-App---React.js
 
-![alt text](https://github.com/ErwinSputra/Note-App---React.js/blob/master/public/images/First-Look.png?raw=true)
+![Alt text](/../master/public/images/First-Look.png?raw=true "The first look of my App")
 
-![alt text](https://github.com/ErwinSputra/Note-App---React.js/blob/master/public/images/Final-Look.png?raw=true)
+![Alt text](/../master/public/images/Final-Look.png?raw=true "The final look")
